@@ -50,7 +50,7 @@ class _homState extends State<hom> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'ToList',
+          'Todo List',
           style: TextStyle(
               color: Colors.black, fontSize: 20, fontWeight: FontWeight.bold),
         ),

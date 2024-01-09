@@ -136,7 +136,7 @@ class _homState extends State<hom> {
                 borderRadius: BorderRadius.all(
                   Radius.circular(10),
                 ),
-                color: Color(0xffDDFFF7),
+                // color: Color(0xffDDFFF7),
 
                 // color: Colors.red,
               ),
@@ -423,7 +423,7 @@ class _homState extends State<hom> {
         // shape: const CircleBorder(eccentricity: 0.0),
         child: const Icon(Icons.add),
       ),
-      backgroundColor: const Color(0xffDDFFF7),
+      // backgroundColor: Colors.green,
     );
   }
 
